@@ -31,8 +31,10 @@ github_username:  jekyll
 
 # Build settings
 theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "earth" # "earth", "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
 
 include: ["_pages"]
