@@ -36,6 +36,11 @@ minimal_mistakes_skin: "earth" # "earth", "default", "air", "aqua", "contrast", 
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jemoji
+  - jekyll-include-cache
 
 include: ["_pages"]
 
