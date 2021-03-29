@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  - title: "Authors"
+    url: /authors/
+  - title: "PL"
+    url: /practicas/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
