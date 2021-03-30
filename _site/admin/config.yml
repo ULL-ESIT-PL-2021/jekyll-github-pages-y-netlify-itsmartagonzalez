@@ -1,5 +1,0 @@
-backend:
-  name: github
-  repo: ULL-ESIT-PL-2021/jekyll-github-pages-y-netlify-itsmartagonzalez
-
-media_folder: "assets/images"
