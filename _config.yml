@@ -50,11 +50,8 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  
-include: ["_pages"]
 
-sass:
-  sass_dir: _sass
+include: ["_pages"]
 
 defaults:
   -
