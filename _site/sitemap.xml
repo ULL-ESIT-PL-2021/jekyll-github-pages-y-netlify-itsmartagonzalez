@@ -1,26 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/jekyll-github-pages-y-netlify-itsmartagonzalez/food/posts/2021/03/12/banana.html</loc>
+<loc>http://localhost:4000/food/posts/2021/03/12/banana.html</loc>
 <lastmod>2021-03-12T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/jekyll-github-pages-y-netlify-itsmartagonzalez/food/posts/2021/03/12/pizza.html</loc>
+<loc>http://localhost:4000/food/posts/2021/03/12/pizza.html</loc>
 <lastmod>2021-03-12T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/jekyll-github-pages-y-netlify-itsmartagonzalez/about/</loc>
+<loc>http://localhost:4000/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/jekyll-github-pages-y-netlify-itsmartagonzalez/practicas/</loc>
+<loc>http://localhost:4000/practicas/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/jekyll-github-pages-y-netlify-itsmartagonzalez/authors/</loc>
+<loc>http://localhost:4000/authors/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/jekyll-github-pages-y-netlify-itsmartagonzalez/contact/</loc>
+<loc>http://localhost:4000/contact/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/jekyll-github-pages-y-netlify-itsmartagonzalez/</loc>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/admin/</loc>
+<lastmod>2021-03-30T12:10:08+00:00</lastmod>
 </url>
 </urlset>
